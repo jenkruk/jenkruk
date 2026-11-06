@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**jenkruk/jenkruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Jennifer Kruk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Senior Software Engineer | Frontend & Product Engineering**
+
+### GitHub + GitLab Contributions
+
+[![Jennifer's Combined Contributions](https://contra-api.vercel.app/api/og?githubUsername=jenkruk&gitlabUsername=contactkruk)](https://contra-psi.vercel.app/?githubUsername=jenkruk&gitlabUsername=contactkruk)
+
+[GitHub](https://github.com/jenkruk) · [GitLab](https://gitlab.com/contactkruk) · [LinkedIn](https://www.linkedin.com/in/jenkruk)
+
+</div>
