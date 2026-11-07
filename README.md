@@ -5,10 +5,11 @@
 
 **Senior Software Engineer | Frontend & Product Engineering**
 
-### GitHub + GitLab Contributions
 
-[![Jennifer's Combined Contributions](https://contra-api.vercel.app/api/og?githubUsername=jenkruk&gitlabUsername=contactkruk)](https://contra-psi.vercel.app/?githubUsername=jenkruk&gitlabUsername=contactkruk)
 
-[GitHub](https://github.com/jenkruk) · [GitLab](https://gitlab.com/contactkruk) · [LinkedIn](https://www.linkedin.com/in/jenkruk)
-
-</div>
+<a href="https://gitvis.vercel.app/?v=1&amp;github=jenkruk&amp;gitlab=contactkruk&amp;layout=data-rich&amp;palette=mocha&amp;mode=dark&amp;f=heatmap%2Ctotal%2Cbreakdown%2Ctrends%2Clabels&amp;hdr=compact&amp;av=github&amp;name=Github+%2B+Gitlab+Combined+Activity&amp;title=Frontend+%7C+Product+Developer&amp;pc=gitlab%3Aa7562a&amp;den=compact&amp;pnl=outlined&amp;yrs=3">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://gitvis.vercel.app/api/card?v=1&amp;github=jenkruk&amp;gitlab=contactkruk&amp;layout=data-rich&amp;palette=mocha&amp;mode=dark&amp;f=heatmap%2Ctotal%2Cbreakdown%2Ctrends%2Clabels&amp;size=compact&amp;hdr=compact&amp;av=github&amp;name=Github+%2B+Gitlab+Combined+Activity&amp;title=Frontend+%7C+Product+Developer&amp;pc=gitlab%3Aa7562a&amp;den=compact&amp;pnl=outlined&amp;yrs=3">
+    <img alt="GitVis contribution activity for GitHub @jenkruk and GitLab @contactkruk" src="https://gitvis.vercel.app/api/card?v=1&amp;github=jenkruk&amp;gitlab=contactkruk&amp;layout=data-rich&amp;palette=mocha&amp;mode=dark&amp;f=heatmap%2Ctotal%2Cbreakdown%2Ctrends%2Clabels&amp;hdr=compact&amp;av=github&amp;name=Github+%2B+Gitlab+Combined+Activity&amp;title=Frontend+%7C+Product+Developer&amp;pc=gitlab%3Aa7562a&amp;den=compact&amp;pnl=outlined&amp;yrs=3">
+  </picture>
+</a>
